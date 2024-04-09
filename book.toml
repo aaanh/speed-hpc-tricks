@@ -1,0 +1,6 @@
+[book]
+authors = ["Anh H Nguyen"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Concordia University - Speed HPC Hacks"
