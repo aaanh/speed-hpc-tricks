@@ -4,4 +4,5 @@
 
 # Shells 🐚
 
-- [Shells 🐚](shells/index.md)
+- [Overview](shells/overview.md)
+- [zsh](shells/zsh.md)

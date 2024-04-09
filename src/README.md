@@ -2,6 +2,13 @@
 
 This personal knowledge base (KB) details the various user environment setups that I configure for a smooth and powered up experience on the ENCS Linux server and extending to the Speed server at Concordia University, Montreal, QC.
 
+- ENCS server is managed by multiple AITS teams.
+- Speed HPC is managed by a dedicated team part of AITS.
+
+Check out the Speed Github repository at: <https://github.com/NAG-DevOps/speed-hpc/>
+
+The full manual is available in: [PDF](https://github.com/NAG-DevOps/speed-hpc/blob/master/doc/speed-manual.pdf) | [HTML](https://nag-devops.github.io/speed-hpc/)
+
 This KB adopts the MIT license.
 
 > _**It should make your workflow goes blazingly fast**_
