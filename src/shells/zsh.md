@@ -53,7 +53,18 @@ It is advised that you run these commands one-by-one to easily catch any errors 
   ```
 
 - To "install" zsh to a `$HOME/bin/ directory`
-
+  
   ```
   make install
   ```
+
+  > Note that this **does not** actually install `zsh`, it simply puts the binary in a specific directory and then it is up to the user to add that location to the `PATH` environment variable to invoke `zsh`. Should they want to, but we are not going to do that here.
+
+- Invoke `zsh` automatically upon successful login
+
+  ```sh
+  echo $HOME/bin/zsh >> ~/.tshrc 
+  ```
+  
+  > At this point, the setup is over and I'll leave further customizations to you.
+
